@@ -1,13 +1,6 @@
-// var bodyParser = require('body-parser');
-// var jsonParser = bodyParser.json();
-
-// console.log("Client.js is working!")
-
-// console.log('Testing Add');
-
 console.log('Client-side code running');
 
-const DonationForm = document.getElementById("DonationForm");
+/*const DonationForm = document.getElementById("DonationForm");
 const EMail = document.getElementById("EMail");
 const Button = document.getElementById("FormSubmit");
 const Button1 = document.getElementById('FormSubmit1');
@@ -47,4 +40,4 @@ Button.addEventListener('click', function(event) {
     } else {
         alert("That input is not valid");
     }
-});
+});*/
